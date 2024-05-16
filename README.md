@@ -1,6 +1,6 @@
 # Hotel Review Sentiment Analysis
 
-This repository contains code and resources for performing sentiment analysis on hotel reviews using a variety of deep learning models and techniques. The models integrate advanced NLP tools and embeddings such as BERT, FastText, Word2Vec, Doc2Vec, along with neural network architectures like LSTM and BiLSTM, including an attention mechanism.
+This repository contains code and resources for performing sentiment analysis on hotel reviews using a variety of deep learning models and techniques. The models integrate advanced NLP tools and embeddings such as FastText, Word2Vec, Doc2Vec, along with neural network architectures like BERT, LSTM, BiLSTM, andd BiLSTM-attention.
 
 ## Models Overview
 
