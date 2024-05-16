@@ -1,0 +1,7 @@
+example_hotel_review.csv
+hotel_reviews.csv
+.DS_STORE
+fasttext_model.bin
+train_reviews.txt
+Note.txt
+example_hotel_review2.csv
