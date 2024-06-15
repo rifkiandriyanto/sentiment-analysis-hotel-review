@@ -3,3 +3,4 @@ fasttext_model.bin
 train_reviews.txt
 Note.txt
 dataset/
+notes/

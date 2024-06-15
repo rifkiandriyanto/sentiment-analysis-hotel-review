@@ -1,0 +1,114 @@
+fasttext - LSTM
+Classification Report:
+              precision    recall  f1-score   support
+
+    negative       0.00      0.00      0.00       432
+     neutral       0.20      0.01      0.01       523
+    positive       0.85      1.00      0.92      5193
+
+    accuracy                           0.84      6148
+   macro avg       0.35      0.34      0.31      6148
+weighted avg       0.73      0.84      0.78      6148
+
+word2vec - LSTM
+Classification Report:
+              precision    recall  f1-score   support
+
+    negative       0.69      0.63      0.66       432
+     neutral       0.50      0.24      0.33       523
+    positive       0.93      0.98      0.95      5193
+
+    accuracy                           0.90      6148
+   macro avg       0.70      0.62      0.65      6148
+weighted avg       0.87      0.90      0.88      6148
+
+doc2vec - LSTM
+Classification Report:
+              precision    recall  f1-score   support
+
+    negative       0.65      0.59      0.62       432
+     neutral       0.50      0.29      0.36       523
+    positive       0.93      0.98      0.95      5193
+
+    accuracy                           0.89      6148
+   macro avg       0.69      0.62      0.65      6148
+weighted avg       0.88      0.89      0.88      6148
+
+
+fasttext - BiLSTM
+Classification Report:
+              precision    recall  f1-score   support
+
+    negative       0.00      0.00      0.00       432
+     neutral       0.00      0.00      0.00       523
+    positive       0.84      1.00      0.92      5193
+
+    accuracy                           0.84      6148
+   macro avg       0.28      0.33      0.31      6148
+weighted avg       0.71      0.84      0.77      6148
+
+
+word2vec - BiLSTM
+Classification Report:
+              precision    recall  f1-score   support
+
+    negative       0.69      0.65      0.67       432
+     neutral       0.49      0.29      0.36       523
+    positive       0.94      0.98      0.96      5193
+
+    accuracy                           0.90      6148
+   macro avg       0.71      0.64      0.66      6148
+weighted avg       0.88      0.90      0.89      6148
+
+
+doc2vec - BiLSTM
+Classification Report:
+              precision    recall  f1-score   support
+
+    negative       0.65      0.61      0.63       432
+     neutral       0.47      0.28      0.36       523
+    positive       0.93      0.98      0.95      5193
+
+    accuracy                           0.89      6148
+   macro avg       0.69      0.62      0.65      6148
+weighted avg       0.87      0.89      0.88      6148
+
+
+fasttext - BiLSTM - Attention
+Classification Report:
+              precision    recall  f1-score   support
+
+    negative       0.70      0.32      0.44       432
+     neutral       0.30      0.04      0.07       523
+    positive       0.88      1.00      0.93      5193
+
+    accuracy                           0.87      6148
+   macro avg       0.63      0.45      0.48      6148
+weighted avg       0.82      0.87      0.83      6148
+
+
+word2vec - BiLSTM - Attention
+Classification Report:
+              precision    recall  f1-score   support
+
+    negative       0.69      0.64      0.66       432
+     neutral       0.50      0.29      0.36       523
+    positive       0.93      0.98      0.96      5193
+
+    accuracy                           0.90      6148
+   macro avg       0.71      0.64      0.66      6148
+weighted avg       0.88      0.90      0.89      6148
+
+
+doc2vec - BiLSTM - Attention
+Classification Report:
+              precision    recall  f1-score   support
+
+    negative       0.65      0.61      0.63       432
+     neutral       0.47      0.28      0.35       523
+    positive       0.93      0.98      0.95      5193
+
+    accuracy                           0.89      6148
+   macro avg       0.68      0.62      0.65      6148
+weighted avg       0.87      0.89      0.88      6148
+
