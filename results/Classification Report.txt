@@ -1,6 +1,6 @@
 fasttext - LSTM
 Classification Report:
-             precision    recall  f1-score   support
+              precision    recall  f1-score   support
 
     negative       0.79      0.82      0.80      3214
      neutral       0.39      0.57      0.47      2184
@@ -39,13 +39,13 @@ fasttext - BiLSTM
 Classification Report:
               precision    recall  f1-score   support
 
-    negative       0.78      0.85      0.81      3214
-     neutral       0.47      0.63      0.53      2184
-    positive       0.95      0.89      0.92     15093
+    negative       0.80      0.87      0.83      3214
+     neutral       0.42      0.67      0.52      2184
+    positive       0.96      0.86      0.91     15093
 
-    accuracy                           0.85     20491
-   macro avg       0.73      0.79      0.76     20491
-weighted avg       0.87      0.85      0.86     20491
+    accuracy                           0.84     20491
+   macro avg       0.73      0.80      0.75     20491
+weighted avg       0.88      0.84      0.86     20491
 
 
 word2vec - BiLSTM
