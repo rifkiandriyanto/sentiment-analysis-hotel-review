@@ -1,0 +1,12 @@
+Prof mau nanya, catatan revisinya kan begini:
+2). perlu dilakukan perbandingan yang menyeluruh untuk mengetahui berapa besar terjadi peningkatan efektifitas analisis sentimen pada data tidak seimbang
+
+penelitian saya kan ini:
+- LSTM dengan FastText, Word2Vec, dan Doc2Vec
+- BiLSTM dengan FastText, Word2Vec, dan Doc2Vec
+- BiLSTM-Attention dengan FastText, Word2Vec, dan Doc2Vec
+
+jadi saya perlu bikin experiment lagi tentang
+ LSTM dengan FastText, Word2Vec, dan Doc2Vec tanpa smote dan menggunan teknik split dataset sudah cukup ya prof?
+
+ tanpa experiment semuanya gitu maksudnya, jadi LSTM aja gitu tanpa BiLSTM dan BiLSTM-Attention
